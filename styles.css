@@ -67,9 +67,9 @@ main{
 
 .profile-image {
     border-radius: 50%;
-    border: 4px solid #0f0909; /* Add a white border */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Add a drop shadow */
-    background-color: #fff; /* Set the background color to white */
+    border: 4px solid #0f0909; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); 
+    background-color: #fff; 
     display: block;
     margin: 0 auto;
 }
